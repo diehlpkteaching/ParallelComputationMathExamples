@@ -1,0 +1,1 @@
+# Parallel Computational Mathematics Exercises [![CircleCI](https://circleci.com/gh/diehlpkteaching/ParallelComputationMathExamples.svg?style=svg)](https://circleci.com/gh/diehlpkteaching/ParallelComputationMathExamples)
