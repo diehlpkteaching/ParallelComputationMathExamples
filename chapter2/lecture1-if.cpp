@@ -9,7 +9,10 @@ int main()
 		    result = result + i;
 	    else
 		    result = result + i * i;
-}
+    }
+
+    std::cout << "Result= " << result << std::endl;
+
     return 0;
 }
 
