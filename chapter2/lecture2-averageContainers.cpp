@@ -11,7 +11,7 @@ double x;
         values.push_back(x);
     }
 double sum = 
-    std::accumulate(values.begin(), values.end(), 0.0f);
+std::accumulate(values.begin(), values.end(), 0.0f);
 std::cout << "Average: "
     << sum / values.size() << std::endl;
 }
