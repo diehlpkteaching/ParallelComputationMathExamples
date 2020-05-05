@@ -1,12 +1,12 @@
-// Example with if statement
+// Example: function defintion
 #include <iostream>
 
 size_t f(size_t i)
 {
-	    if(	i % 1 == 0)
-		    return  i;
-	    else
-		    return  i * i;
+    if(	i % 1 == 0)
+	    return  i;
+	else
+		return  i * i;
 }
 
 
