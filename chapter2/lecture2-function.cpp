@@ -9,7 +9,6 @@ size_t f(size_t i)
         return  i * i;
 }
 
-
 int main()
 {
     size_t result = 0;
